@@ -1,0 +1,17 @@
+{
+  "name": "mi-primer-trabajo-con-sql",
+  "version": "1.0.0",
+  "description": "Trabajo para entender el uso y adaptabilidad de SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon index.js"
+  },
+  "author": "Torres Rodrigo de Reload Your Power",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1"
+  }
+}
