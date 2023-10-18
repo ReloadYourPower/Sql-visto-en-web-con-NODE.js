@@ -8,8 +8,8 @@ const mysql = require('mysql2');
 
 const connection = mysql.createConnection({
   host: 'localhost',
-  user: 'root',
-  password: '@12Aresop23#',
+  user: 'Tu Usuario de My sql',
+  password: 'Tu contraseña',
   database: 'gamme_schema'
 });
 
